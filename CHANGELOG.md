@@ -46,6 +46,10 @@
 
 - [fix] another error with ')' in link parsing, reported by [Julien Bisconti](https://github.com/veggiemonk)
 
+# 1.4.0
+
+- add `--set-timeout` and `--allow-timeout` options
+
 ## Contact
 
 - [github.com/dkhamsing](https://github.com/dkhamsing)
